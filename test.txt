@@ -1,3 +1,3 @@
 this is first
-B成员来了 我是B员工 我也提交了
-you yicilaile
+B成员来了 我是A提交完 B也提交 合并后结果 
+you yicilaile 
