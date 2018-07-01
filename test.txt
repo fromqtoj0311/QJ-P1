@@ -1,3 +1,4 @@
 this is first
 B成员来了 我是A提交完 B也提交 合并后结果 
-you yicilaile 
+you yicilaile
+我是C同学 我来帮B写作业
